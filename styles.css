@@ -39,4 +39,17 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+.refresh{
+  margin: 2rem;
+  box-shadow: 2px 2px 5px black;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bolder;
+  color:rgb(78, 179, 204);
+  background-color: rgb(9, 37, 49);
+  border: none;
+  width: 100px;
+  height: 40px;
+  border-radius: 20px;
+  font-size: 1.3rem;
 
+}
