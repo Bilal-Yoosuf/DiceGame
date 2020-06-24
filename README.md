@@ -1,3 +1,3 @@
 # DiceGame
-Simple Dice Game
+Simple Dice Game .
 It works like Heads or Tales
